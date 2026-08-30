@@ -2,7 +2,7 @@
 
 **Autonomous Unified Reality Architect** - An enterprise-grade AI development platform with multi-agent orchestration, RAG, and full-stack capabilities.
 
-![AURA AI Copilot](https://img.shields.io/badge/AI-Multi--Agent-purple) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![React](https://img.shields.io/badge/React-19-blue) ![tRPC](https://img.shields.io/badge/tRPC-11-blue)
+![AURA AI Copilot](https://img.shields.io/badge/AI-Multi--Agent-purple) ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue) ![React](https://img.shields.io/badge/React-19-blue) ![tRPC](https://img.shields.io/badge/tRPC-11-blue) ![CI](https://github.com/muffy86/aura-ai-copilot/actions/workflows/ci.yml/badge.svg)
 
 ## 🚀 Features
 
@@ -48,6 +48,7 @@ AURA coordinates a team of specialized AI agents to tackle complex development t
 - **S3** for file storage
 - **Vector embeddings** for RAG (planned)
 - **MCP protocol** support (planned)
+- **GitHub Actions CI** (type-check + build)
 
 ## 📦 Installation
 
